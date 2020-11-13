@@ -1,0 +1,14 @@
+enter 2 num
+add 2 num
+result
+enter 2 real 
+div 2 int
+result
+enter 3 num
+enter 3 real
+enter 8 num
+enter 8 float
+add 2 num
+div 3 num
+result
+exit
